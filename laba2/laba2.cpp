@@ -15,8 +15,6 @@ void task1() {
 	cout << "\n";
 }
 
-
-
 	void task3() {
 
 		int a;
@@ -42,7 +40,6 @@ void task1() {
 		{
 			cout << "Enter the number of action that you want to run:\n"
 				<< "1. Number triangle.\n"
-				<< "2. Finding binomial coefficient.\n"
 				<< "3. Calculation of the arithmetic mean of the entered points.\n"
 				<< "4. Exit.\n";
 			cin >> choice;
